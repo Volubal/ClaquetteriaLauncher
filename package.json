@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Helios Launcher",
+  "name": "claquetterialauncher",
+  "version": "0.0.1",
+  "productName": "Claquetteria Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) Et ClaquetteriaInc",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Volubal/Claquetteria.git"
   }
 }
