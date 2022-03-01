@@ -1,6 +1,6 @@
 {
   "name": "claquetterialauncher",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "productName": "Claquetteria Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) Et ClaquetteriaInc",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Volubal/Heliosauncher.git"
+    "url": "git+https://github.com/Volubal/HeliosLauncher.git"
   }
 }
