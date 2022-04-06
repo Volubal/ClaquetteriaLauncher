@@ -17,7 +17,7 @@
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "3.9.4",
             "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "minecraftVersion": "1.17.1",
             "discord": {
                 "shortId": "Production",
                 "largeImageText": "WesterosCraft Production Server",
